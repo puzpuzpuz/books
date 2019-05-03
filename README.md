@@ -2,9 +2,7 @@
 
 Printed books and tutorials that were written by me as the author or co-author.
 
-## Java Tutorials
-
-### Учебные пособия "Язык программирования Java", Курбатова И.В., Печкуров А.В.
+## Учебные пособия "Язык программирования Java", Курбатова И.В., Печкуров А.В.
 
 A set of printed tutorials for Java beginners. It's written for Russian-speaking audience, so the rest of the description will be in Russian.
 
@@ -25,7 +23,7 @@ A set of printed tutorials for Java beginners. It's written for Russian-speaking
 11. Загрузка классов в Java
 12. Многопоточное программирование
 
-В настоящее время напечатаны 2 из 5 запланированных пособий (файлы `tutorials/java-tutorial-1.pdf` и `tutorials/java-tutorial-2.pdf`). Эти пособия включают главы 1-3 полного курса. По мере печати следующих частей, они будут выкладываться в данный репозиторий.
+В настоящее время напечатаны 2 из 5 запланированных пособий (файлы `java-tutorials/java-tutorial-1.pdf` и `java-tutorials/java-tutorial-2.pdf`). Эти пособия включают главы 1-3 полного курса. По мере печати следующих частей, они будут выкладываться в данный репозиторий.
 
 Авторы выражают благодарность Воронежскому Государственному Университету и, в частности, кафедре ПОиАИС факультета ПММ за помощь с выпуском этого набора учебных пособий.
 
